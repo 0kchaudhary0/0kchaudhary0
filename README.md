@@ -60,10 +60,10 @@ I am currently a B.Tech undergraduate student with a massive appetite for learni
 
 <div align="center">
   <a href="https://github.com/0kchaudhary0">
-    <img src="https://github-readme-stats.shion.dev/api?username=0kchaudhary0&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="48%" />
+    <img src="https://github-readme-stats.shion.dev/api?username=0kchaudhary0&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="48%" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/0kchaudhary0">
-    <img src="https://streak-stats.demolab.com/?user=0kchaudhary0&theme=dark&hide_border=false" width="48%" />
+    <img src="https://streak-stats.demolab.com/?user=0kchaudhary0&theme=dark&hide_border=false" width="48%" alt="GitHub Streak" />
   </a>
 </div>
 
@@ -71,7 +71,7 @@ I am currently a B.Tech undergraduate student with a massive appetite for learni
 
 <div align="center">
   <a href="https://github.com/0kchaudhary0">
-    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=0kchaudhary0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="60%" />
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=0kchaudhary0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="60%" alt="Top Languages" />
   </a>
 </div>
 
@@ -79,7 +79,9 @@ I am currently a B.Tech undergraduate student with a massive appetite for learni
 
 <div align="center">
   <h3>🏆 GitHub Trophies</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=0kchaudhary0&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=0kchaudhary0&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  </a>
 </div>
 
 ---
@@ -87,11 +89,14 @@ I am currently a B.Tech undergraduate student with a massive appetite for learni
 <div align="center">
   
 ### 🔝 Top Contributed Repository
-<img src="https://github-contributor-stats.vercel.app/api?username=0kchaudhary0&limit=5&theme=dark&combine_all_yearly_contributions=true" width="60%" />
+<!-- REPLACE 'YOUR_REPO_NAME' below with your actual repository name (e.g., 'portfolio-website') -->
+<a href="https://github.com/0kchaudhary0/YOUR_REPO_NAME">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=0kchaudhary0&repo=YOUR_REPO_NAME&theme=dark" alt="Top Repository" />
+</a>
 
 <br><br>
 
 ### ✍️ Dev Quote
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 
 </div>
